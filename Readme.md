@@ -2,7 +2,7 @@
 
 * Студент: [Ксения Кривозубова](https://up.htmlacademy.ru/htmlcss/40/user/2516727).
 * Наставник: [Дина Шарипова](https://htmlacademy.ru/profile/id1418957).
-
+* Сайт: [Мой проект Седона](https://ksenia22k.github.io/2516727-sedona-40/).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
